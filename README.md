@@ -46,11 +46,11 @@ Se você gosta de tecnologia, programação e inovação, vamos trocar ideias!
 
 
 
-[![Clayson stats](https://github-readme-stats.vercel.app/api?username=claysonbmelo)](https://github.com/anuraghazra/github-readme-stats)
+[![Clayson stats](https://github-readme-stats.vercel.app/api?username=claysonbmelo)](https://github.com/anuraghazra/github-readme-stats&cache=false)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claysonbmelo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claysonbmelo)](https://github.com/anuraghazra/github-readme-stats&v=1)
 
 
 ---
