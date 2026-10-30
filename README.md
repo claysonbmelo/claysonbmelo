@@ -47,7 +47,7 @@ Se você gosta de tecnologia, programação e inovação, vamos trocar ideias!
 
 # 🔥 Minhas Estatísticas
 
-<!-- Troféus do GitHub - Servidor alternativo super estável -->
+<!-- Troféus do GitHub -->
 [![Troféus do GitHub](https://vercel.app)](https://github.com)
 
 ### 📊 Tecnologias e Métricas
