@@ -45,12 +45,36 @@ Se você gosta de tecnologia, programação e inovação, vamos trocar ideias!
 <br>
 
 
-# 🔥 Minhas Estatísticas
+# 🚀 Olá, eu sou o Clayson Melo!
 
-<!-- Troféus do GitHub -->
-[![Troféus do GitHub](https://vercel.app)](https://github.com)
+Desenvolvedor Web focado em criar soluções modernas, eficientes e de alta conversão.
 
-### 📊 Tecnologias e Métricas
-![Repositórios](https://shields.io)
-![Seguidores](https://shields.io)
+---
+
+### 💻 Minha Stack de Tecnologias
+
+<div id="badges">
+  <!-- HTML5 -->
+  <img src="https://shields.io" alt="HTML5" />
+  <!-- CSS3 -->
+  <img src="https://shields.io" alt="CSS3" />
+  <!-- JavaScript -->
+  <img src="https://shields.io" alt="JavaScript" />
+</div>
+
+<br>
+
+<div id="ferramentas">
+  <!-- VS Code -->
+  <img src="https://shields.io" alt="VS Code" />
+  <!-- Git -->
+  <img src="https://shields.io" alt="Git" />
+  <!-- GitHub -->
+  <img src="https://shields.io" alt="GitHub" />
+</div>
+
+---
+
+### 📈 Conecte-se Comigo
+[![Instagram](https://shields.io)](https://instagram.com)
 
