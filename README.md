@@ -44,6 +44,7 @@ Se você gosta de tecnologia, programação e inovação, vamos trocar ideias!
 <br>
 <br>
 
+[![GitHub Streak](https://herokuapp.com)](https://git.io)
 
 
 [![Clayson stats](https://github-readme-stats.vercel.app/api?username=claysonbmelo)](https://github.com/anuraghazra/github-readme-stats&cache=false)
