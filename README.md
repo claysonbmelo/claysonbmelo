@@ -44,16 +44,13 @@ Se você gosta de tecnologia, programação e inovação, vamos trocar ideias!
 <br>
 <br>
 
-[![GitHub Streak](https://herokuapp.com)](https://git.io)
 
+<!-- Gráfico de Streak (Servidor Vercel Alternativo) -->
+[![GitHub Streak](https://vercel.app)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Clayson stats](https://github-readme-stats.vercel.app/api?username=claysonbmelo)](https://github.com/anuraghazra/github-readme-stats&cache=false)
+<!-- Gráfico de Status Principal (Instância Alternativa Shion) -->
+[![Status do GitHub](https://shion.dev)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<!-- Gráfico de Linguagens Mais Usadas (Instância Alternativa Shion) -->
+[![Linguagens Mais Usadas](https://shion.dev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claysonbmelo)](https://github.com/anuraghazra/github-readme-stats&v=1)
-
-
----
-
-⭐ *Aprendizado contínuo, código bem escrito e evolução constante!* 🚀
