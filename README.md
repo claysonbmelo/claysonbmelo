@@ -45,17 +45,12 @@ Se você gosta de tecnologia, programação e inovação, vamos trocar ideias!
 <br>
 
 
-<!-- Gráfico de Streak (Servidor Vercel Alternativo) -->
-[![GitHub Streak](https://vercel.app)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<!-- Gráfico de Status Principal (Instância Alternativa Shion) -->
-[![Status do GitHub](https://shion.dev)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Gráfico de Linguagens Mais Usadas (Instância Alternativa Shion) -->
-[![Linguagens Mais Usadas](https://shion.dev)](https://github.com/anuraghazra/github-readme-stats)
-
 # 🔥 Minhas Estatísticas
 
-![Status do GitHub](stats.svg)
-![Linguagens Mais Usadas](langs.svg)
+<!-- Troféus do GitHub - Servidor alternativo super estável -->
+[![Troféus do GitHub](https://vercel.app)](https://github.com)
+
+### 📊 Tecnologias e Métricas
+![Repositórios](https://shields.io)
+![Seguidores](https://shields.io)
 
