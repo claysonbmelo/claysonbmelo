@@ -54,3 +54,8 @@ Se você gosta de tecnologia, programação e inovação, vamos trocar ideias!
 <!-- Gráfico de Linguagens Mais Usadas (Instância Alternativa Shion) -->
 [![Linguagens Mais Usadas](https://shion.dev)](https://github.com/anuraghazra/github-readme-stats)
 
+# 🔥 Minhas Estatísticas
+
+![Status do GitHub](stats.svg)
+![Linguagens Mais Usadas](langs.svg)
+
