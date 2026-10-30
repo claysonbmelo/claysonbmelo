@@ -46,6 +46,7 @@ Se você gosta de tecnologia, programação e inovação, vamos trocar ideias!
 
 [![Estatísticas do GitHub](https://shion.dev)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Clayson stats](https://vercel.app/api?username=claysonbmelo)](https://github.com)
 
 [![Clayson stats](https://github-readme-stats.vercel.app/api?username=claysonbmelo)](https://github.com/anuraghazra/github-readme-stats)
 
